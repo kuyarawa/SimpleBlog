@@ -122,7 +122,6 @@ class FeedController extends Controller
 	 */
 	public function actionIndex()
 	{
-
 		$this->processPageRequest('page');
 
 		$dataProvider=new CActiveDataProvider('Posts', array(
