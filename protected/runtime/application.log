@@ -1762,3 +1762,1044 @@ Stack trace:
 REQUEST_URI=/images/loading.gif
 HTTP_REFERER=http://learn.yii/feed/index
 ---
+2013/08/21 14:44:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 14:44:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 14:59:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 14:59:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 14:59:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/index".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/site/index
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 14:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 14:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:00:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:00:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:03:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:03:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:03:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:03:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:03:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:03:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:05:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:05:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:05:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:06:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:06:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:10:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:12:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:12:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:12:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:15:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:15:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:19:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:19:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:19:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:19:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:21:07 [error] [exception.CException] exception 'CException' with message 'The asset "/home/boddicheg/workspace/learn.yii/protected/config/../extensions/bootstrap/assets" to be published does not exist.' in /home/boddicheg/workspace/learn.yii/framework/web/CAssetManager.php:257
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/components/Bootstrap.php(306): CAssetManager->publish('/home/boddicheg...', true, -1, false)
+#1 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/components/Bootstrap.php(50): Bootstrap->getAssetsUrl()
+#2 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/components/Bootstrap.php(81): Bootstrap->registerCoreCss()
+#3 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/components/Bootstrap.php(115): Bootstrap->registerAllCss()
+#4 /home/boddicheg/workspace/learn.yii/themes/bootstrap/views/layouts/main.php(12): Bootstrap->register()
+#5 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(126): require('/home/boddicheg...')
+#6 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/boddicheg...', Array, true)
+#7 /home/boddicheg/workspace/learn.yii/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/boddicheg...', Array, true)
+#8 /home/boddicheg/workspace/learn.yii/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div class="row...')
+#9 /home/boddicheg/workspace/learn.yii/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div class="row...')
+#10 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(206): COutputProcessor->run()
+#11 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#12 /home/boddicheg/workspace/learn.yii/themes/bootstrap/views/layouts/column2.php(24): CBaseController->endContent()
+#13 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(126): require('/home/boddicheg...')
+#14 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/boddicheg...', Array, true)
+#15 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(784): CBaseController->renderFile('/home/boddicheg...', Array, true)
+#16 /home/boddicheg/workspace/learn.yii/protected/controllers/FeedController.php(142): CController->render('index', Array)
+#17 /home/boddicheg/workspace/learn.yii/framework/web/actions/CInlineAction.php(49): FeedController->actionIndex()
+#18 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#19 /home/boddicheg/workspace/learn.yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#20 /home/boddicheg/workspace/learn.yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#21 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#22 /home/boddicheg/workspace/learn.yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#23 /home/boddicheg/workspace/learn.yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#24 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(291): CFilterChain->run()
+#25 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#26 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(282): CController->run('')
+#27 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#28 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#29 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#30 {main}
+REQUEST_URI=/
+---
+2013/08/21 15:21:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:21:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:24:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:24:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:24:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:24:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 15:24:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 15:49:12 [error] [exception.CException] exception 'CException' with message 'Property "UserLogin.textField" is not defined.' in /home/boddicheg/workspace/learn.yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/helpers/CHtml.php(2529): CComponent->__get('textField')
+#1 /home/boddicheg/workspace/learn.yii/framework/web/helpers/CHtml.php(2252): CHtml::resolveValue(Object(UserLogin), 'textField')
+#2 /home/boddicheg/workspace/learn.yii/framework/web/helpers/CHtml.php(1434): CHtml::activeInputField('text', Object(UserLogin), 'textField', Array)
+#3 /home/boddicheg/workspace/learn.yii/framework/web/widgets/CActiveForm.php(725): CHtml::activeTextField(Object(UserLogin), 'textField', Array)
+#4 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/widgets/input/TbInputVertical.php(142): CActiveForm->textField(Object(UserLogin), 'textField', Array)
+#5 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/widgets/input/TbInput.php(230): TbInputVertical->textField()
+#6 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(173): TbInput->run()
+#7 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/widgets/TbActiveForm.php(497): CBaseController->widget('bootstrap.widge...', Array)
+#8 /home/boddicheg/workspace/learn.yii/protected/extensions/bootstrap/widgets/TbActiveForm.php(186): TbActiveForm->inputRow('text', Object(UserLogin), 'textField', NULL, Array)
+#9 /home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/login.php(15): TbActiveForm->textFieldRow(Object(UserLogin), 'textField', Array)
+#10 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(126): require('/home/boddicheg...')
+#11 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/boddicheg...', Array, true)
+#12 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(869): CBaseController->renderFile('/home/boddicheg...', Array, true)
+#13 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(782): CController->renderPartial('/user/login', Array, true)
+#14 /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/LoginController.php(28): CController->render('/user/login', Array)
+#15 /home/boddicheg/workspace/learn.yii/framework/web/actions/CInlineAction.php(49): LoginController->actionLogin()
+#16 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#17 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#18 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(282): CController->run('')
+#20 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('user/login')
+#21 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#22 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#23 {main}
+REQUEST_URI=/user/login
+HTTP_REFERER=http://learn.yii/user/registration
+---
+2013/08/21 15:52:40 [error] [php] Undefined variable: form (/home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/registration.php:20)
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(869): RegistrationController->renderFile()
+#1 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(782): RegistrationController->renderPartial()
+#2 /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/RegistrationController.php(77): RegistrationController->render()
+#3 /home/boddicheg/workspace/learn.yii/framework/web/actions/CInlineAction.php(49): RegistrationController->actionRegistration()
+#4 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(286): RegistrationController->runAction()
+#6 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(265): RegistrationController->runActionWithFilters()
+#7 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(282): RegistrationController->run()
+#8 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /home/boddicheg/workspace/learn.yii/index.php(16): CWebApplication->run()
+REQUEST_URI=/user/registration
+in /home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/registration.php (20)
+in /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/RegistrationController.php (77)
+in /home/boddicheg/workspace/learn.yii/index.php (16)
+2013/08/21 15:55:30 [error] [php] Undefined variable: form (/home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/registration.php:16)
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(869): RegistrationController->renderFile()
+#1 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(782): RegistrationController->renderPartial()
+#2 /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/RegistrationController.php(77): RegistrationController->render()
+#3 /home/boddicheg/workspace/learn.yii/framework/web/actions/CInlineAction.php(49): RegistrationController->actionRegistration()
+#4 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(286): RegistrationController->runAction()
+#6 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(265): RegistrationController->runActionWithFilters()
+#7 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(282): RegistrationController->run()
+#8 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /home/boddicheg/workspace/learn.yii/index.php(16): CWebApplication->run()
+REQUEST_URI=/user/registration
+in /home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/registration.php (16)
+in /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/RegistrationController.php (77)
+in /home/boddicheg/workspace/learn.yii/index.php (16)
+2013/08/21 16:00:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 16:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/feed/index
+---
+2013/08/21 16:26:31 [error] [php] Missing argument 2 for CHtml::ajaxSubmitButton(), called in /home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/registration.php on line 82 and defined (/home/boddicheg/workspace/learn.yii/framework/web/helpers/CHtml.php:1231)
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CBaseController.php(95): RegistrationController->renderInternal()
+#1 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(869): RegistrationController->renderFile()
+#2 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(782): RegistrationController->renderPartial()
+#3 /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/RegistrationController.php(77): RegistrationController->render()
+#4 /home/boddicheg/workspace/learn.yii/framework/web/actions/CInlineAction.php(49): RegistrationController->actionRegistration()
+#5 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(286): RegistrationController->runAction()
+#7 /home/boddicheg/workspace/learn.yii/framework/web/CController.php(265): RegistrationController->runActionWithFilters()
+#8 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(282): RegistrationController->run()
+#9 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/boddicheg/workspace/learn.yii/index.php(16): CWebApplication->run()
+REQUEST_URI=/user/registration
+in /home/boddicheg/workspace/learn.yii/protected/modules/user/views/user/registration.php (82)
+in /home/boddicheg/workspace/learn.yii/protected/modules/user/controllers/RegistrationController.php (77)
+in /home/boddicheg/workspace/learn.yii/index.php (16)
+2013/08/21 16:51:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:18:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:21:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:21:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:24:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:24:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:25:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:29:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 17:29:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/21 17:29:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/21 18:00:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:02:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:03:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:04:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:04:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:04:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:06:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:06:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:07:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:09:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:09:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:10:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:11:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:12:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:12:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:12:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:13:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:13:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:15:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:16:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:17:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:17:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:17:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:18:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---
+2013/08/21 18:18:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/loading.gif".' in /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/boddicheg/workspace/learn.yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/loading....')
+#1 /home/boddicheg/workspace/learn.yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/boddicheg/workspace/learn.yii/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/loading.gif
+HTTP_REFERER=http://learn.yii/
+---

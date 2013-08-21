@@ -29,7 +29,7 @@ class UserChangePassword extends CFormModel {
 	{
 		return array(
 			'oldPassword'=>UserModule::t("Old Password"),
-			'password'=>UserModule::t("password"),
+			'password'=>UserModule::t("Password"),
 			'verifyPassword'=>UserModule::t("Retype Password"),
 		);
 	}
