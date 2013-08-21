@@ -1,0 +1,63 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+}
+
+#page
+{
+	margin-top: 50px;
+	margin-bottom: 5px;
+	background: white;
+	border: 1px solid grey;
+
+	-moz-box-shadow: 0 0 10px rgba(255,255,255,0.8); /* Для Firefox */
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.8); /* Для Safari и Chrome */
+    box-shadow: 0 0 10px rgba(255,255,255,0.8); /* Параметры тени */ 
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#header
+{
+	margin: 0;
+	padding: 0;
+	border-top: 3px solid #C9E0ED;
+}
+
+#content
+{
+    padding: 20px;
+}
+
+#sidebar
+{
+	padding: 20px 20px 20px 0;
+}
+
+#footer
+{
+	padding: 10px;
+	margin: 10px 20px;
+	font-size: 0.8em;
+	text-align: center;
+	border-top: 1px solid #C9E0ED;
+}
+
+#container
+{
+	border: 1px dashed black;
+
+}
+
+.navbar-inner
+{
+	position: relative;
+    top: 0px;
+}
+
+#nprogress .bar {
+	background-color: red !important;
+
+}
