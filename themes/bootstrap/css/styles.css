@@ -57,7 +57,11 @@ body
     top: 0px;
 }
 
-#nprogress .bar {
+#nprogress {
 	background-color: red !important;
-
+	position: relative !important;
+	z-index: 9999 !important;
+}
+#nprogress .bar {
+	background: #2299DD !important;	
 }

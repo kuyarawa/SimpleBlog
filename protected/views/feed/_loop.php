@@ -53,6 +53,10 @@
 	                            'page': page + 1,
 	                            '<?php echo Yii::app()->request->csrfTokenName; ?>': '<?php echo Yii::app()->request->csrfToken; ?>'
 	                        },
+                            beforeSend: function(data)
+                            {
+                                NProgress.start();
+                            },
 	                        success: function(data)
 	                        {
 	                            // увеличиваем номер текущей страницы и снимаем блокировку
@@ -71,6 +75,7 @@
 	                                $('#showMore').hide();
 	                                loadingFlag = true;
 	                            }
+                                NProgress.done();
 	                        }
 	                    });
 					}

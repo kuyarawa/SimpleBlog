@@ -78,6 +78,28 @@ return array(
             'loginUrl' => array('/user/login'),
         ),
 		// uncomment the following to enable URLs in path-format
+		'Paypal' => array(
+		    'class'=>'application.components.Paypal',
+		    'apiUsername' => 'boddicheg-facilitator_api1.gmail.com',
+		    'apiPassword' => '1377161881',
+		    'apiSignature' => 'Ar7qusazQiJeXTUleir3g.ucm7bmAKPq3KFCUbRGHzZgyATaNk5StAz2',
+		    'apiLive' => false,
+		 
+		    'returnUrl' => 'paypal/confirm/', //regardless of url management component
+		    'cancelUrl' => 'paypal/cancel/', //regardless of url management component
+		 
+		    // Default currency to use, if not set USD is the default
+		    'currency' => 'EUR',
+		 
+		    // Default description to use, defaults to an empty string
+		    //'defaultDescription' => '',
+		 
+		    // Default Quantity to use, defaults to 1
+		    //'defaultQuantity' => '1',
+		 
+		    //The version of the paypal api to use, defaults to '3.0' (review PayPal documentation to include a valid API version)
+		    //'version' => '3.0',
+		),
 		
 		'urlManager'=>array(
 			'urlFormat'=>'path',
