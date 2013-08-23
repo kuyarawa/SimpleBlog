@@ -48,7 +48,6 @@ body
 #container
 {
 	border: 1px dashed black;
-
 }
 
 .navbar-inner
@@ -64,4 +63,13 @@ body
 }
 #nprogress .bar {
 	background: #2299DD !important;	
+}
+
+.post
+{
+	border: 1px dashed black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding: 10px;
 }

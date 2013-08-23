@@ -7,6 +7,7 @@ class FeedController extends Controller
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
 	public $layout='//layouts/column2';
+	protected $end_point = 'https://api.sandbox.paypal.com/v1/oauth2/token';
 
 	/**
 	 * @return array action filters
@@ -28,7 +29,7 @@ class FeedController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view'),
+				'actions'=>array('index','view','order','result'),
 				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
@@ -202,5 +203,145 @@ class FeedController extends Controller
 			else
 				$this->render('error', $error);
 		}
+	}
+	protected function curl_req()
+	{
+		# code...
+	}
+	public function actionResult()
+	{
+		var_dump($_GET['token']);
+		/*
+			curl -v https://api.sandbox.paypal.com/v1/payments/payment/PAY-6RV70583SB702805EKEYSZ6Y/execute/ \
+			-H 'Content-Type:application/json' \
+			-H 'Authorization:Bearer EOjEJigcsRhdOgD7_76lPfrr45UfuI43zzNzTktUk1MK' \
+			-d '{ "payer_id" : "7E7MGXCWTTKK2" }'
+		*/
+		$ec = $_GET['token'];
+		$payer = $_GET['PayerID'];
+
+
+
+		$model=Paypal::model()->findByPk($ec);
+		var_dump($model->attributes);
+		$url = 'https://api.sandbox.paypal.com/v1/payments/payment/'.$model->attributes['pay'].'/execute/';
+		var_dump($url);
+		//First step - get access-token
+		$ch = curl_init();
+
+		curl_setopt($ch, CURLOPT_URL, $url);
+		curl_setopt($ch, CURLOPT_HEADER, true);
+		curl_setopt($ch, CURLOPT_POST, true);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
+		curl_setopt($ch, CURLOPT_POSTFIELDS, '{ "payer_id" : "'.$payer.'" }');
+		curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+			"Content-Type:application/json",
+		  	"Authorization: Bearer ".$model->attributes['access'])
+		);
+
+        //getting response from server 
+        $response = curl_exec($ch); 
+        $error = 'No curl errors';
+     
+        if (curl_errno($ch)){ 
+            $error = curl_errno($ch); 
+        }else{  
+            curl_close($ch); 
+        }
+
+        //$response = json_decode($response);
+        var_dump($response);
+        var_dump($error);
+	}
+	//PayPal
+	public function actionOrder()
+	{
+		$id = (int)$_GET['id'];  
+
+		$model=Posts::model()->findByPk($id);
+
+		//First step - get access-token
+		$ch = curl_init();
+		$clientId = "ATb3hhCI7V3GFoOCc5EjXudPsrtq1pCe4JcCKfYhblrpQJ2FlixoQK_bTKNi";
+		$secret = "EHHWiBB6I94ATx-aCQSelzyzBjknx-9DlSe3_lMNT47SbMPLU3-6oXtVKiWn";
+
+		curl_setopt($ch, CURLOPT_URL, $this->end_point);
+		curl_setopt($ch, CURLOPT_HEADER, false);
+		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+		curl_setopt($ch, CURLOPT_POST, true);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
+		curl_setopt($ch, CURLOPT_USERPWD, $clientId.":".$secret);
+		curl_setopt($ch, CURLOPT_POSTFIELDS, "grant_type=client_credentials");
+
+        //getting response from server 
+        $response = curl_exec($ch); 
+        $error = 'No curl errors';
+     
+        if (curl_errno($ch)){ 
+            $error = curl_errno($ch); 
+        }else{  
+            curl_close($ch); 
+        }
+
+        $response = json_decode($response);
+
+		$data = '{
+		  "intent":"sale",
+		  "redirect_urls":{
+		    "return_url":"http://learn.yii/feed/result/",
+		    "cancel_url":"http://learn.yii/feed/result"
+		  },
+		  "payer":{
+		    "payment_method":"paypal"
+		  },
+		  "transactions":[
+		    {
+		      "amount":{
+		        "total":"'.$model->attributes['price'].'",
+		        "currency":"USD"
+		      },
+		      "description":"Order :'.$model->attributes['title'].' Desc :'.$model->attributes['text'].'"
+		    }
+		  ]
+		}';
+
+		$ch = curl_init();
+
+		curl_setopt($ch, CURLOPT_URL, "https://api.sandbox.paypal.com/v1/payments/payment");
+		curl_setopt($ch, CURLOPT_POST, true);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
+		curl_setopt($ch, CURLOPT_POSTFIELDS, $data); 
+		curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+			"Content-Type:application/json",
+		  	"Authorization: Bearer ".$response->access_token, 
+		  	"Content-length: ".strlen($data))
+		);
+
+		$open_transaction = curl_exec($ch); 
+		$open_transaction = json_decode($open_transaction);
+
+		$approval_url = $open_transaction->links[1]->href;
+
+		$query = parse_url($approval_url)['query'];
+		$ec_token = explode('=',$query)[2];//get &token= pos
+
+		//add to db {ec-token} -> {pay_token, access_token}
+		$pay_token = new Paypal;
+		$pay_token->ec = $ec_token;
+		$pay_token->pay = $open_transaction->id;
+		$pay_token->access = $response->access_token;
+		$pay_token->save();
+
+
+		$this->render('order', array(
+				'input' => $_GET,
+				'error' => $error,
+				'response' => $response,
+				'model' => $model,
+				'transaction' => $open_transaction,
+				'approval' => $approval_url,
+				'ec' => $ec_token,
+			)
+		);
 	}
 }

@@ -48,35 +48,6 @@
 
 	<?php echo $content; ?>
 
-	<div class="clear"></div>
-
-	    <div class='controls'>
-      <p>
-        <button class='button play' id='b-0'>123</button>
-        <i>NProgress</i><b>.start()</b>
-        &mdash;
-        shows the progress bar
-      </p>
-      <p>
-        <button class='button play' id='b-40'>123123</button>
-        <i>NProgress</i><b>.set(0.4)</b>
-        &mdash;
-        sets a percentage
-      </p>
-      <p>
-        <button class='button play' id='b-inc'>123123</button>
-        <i>NProgress</i><b>.inc()</b>
-        &mdash;
-        increments by a little
-      </p>
-      <p>
-        <button class='button play' id='b-100'>213231</button>
-        <i>NProgress</i><b>.done()</b>
-        &mdash;
-        completes the progress
-      </p>
-    </div>
-
 	<div id="footer">
 		Copyright &copy; <?php echo date('Y'); ?> by My Company.<br/>
 		All Rights Reserved.<br/>
@@ -86,15 +57,8 @@
 </div><!-- page -->
 
   <script>
-    $('body').show();
-    $('.version').text(NProgress.version);
     NProgress.start();
     setTimeout(function() { NProgress.done(); $('.fade').removeClass('out'); }, 1000);
-
-    $("#b-0").click(function() { NProgress.start(); });
-    $("#b-40").click(function() { NProgress.set(0.4); });
-    $("#b-inc").click(function() { NProgress.inc(); });
-    $("#b-100").click(function() { NProgress.done(); });
   </script>
 
   <script>var HN=[];HN.factory=function(e){return function(){HN.push([e].concat(Array.prototype.slice.call(arguments,0)))};},HN.on=HN.factory("on"),HN.once=HN.factory("once"),HN.off=HN.factory("off"),HN.emit=HN.factory("emit"),HN.load=function(){var e="hn-button.js";if(document.getElementById(e))return;var t=document.createElement("script");t.id=e,t.src="//hn-button.herokuapp.com/hn-button.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)},HN.load();</script>

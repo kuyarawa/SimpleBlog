@@ -1,17 +1,15 @@
 <div id="listView">
- 
-    <?php $this->widget('zii.widgets.CListView', array(
-        'dataProvider'=>$dataProvider,
-        'itemView'=>'_view',
-        'ajaxUpdate'=>false,
-        'template'=>"{items}",        
-        'pager'=>array(
-            'htmlOptions'=>array(
-                'class'=>'paginator'
-            )
-        ),
-    )); ?>
- 
+        <?php $this->widget('zii.widgets.CListView', array(
+            'dataProvider'=>$dataProvider,
+            'itemView'=>'_view',
+            'ajaxUpdate'=>false,
+            'template'=>"{items}",        
+            'pager'=>array(
+                'htmlOptions'=>array(
+                    'class'=>'paginator'
+                )
+            ),
+        )); ?>
 </div>
  
 <?php if ($dataProvider->totalItemCount > $dataProvider->pagination->pageSize): ?>
